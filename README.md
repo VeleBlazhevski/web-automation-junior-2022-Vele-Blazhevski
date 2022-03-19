@@ -15,4 +15,4 @@ If you want to generate & see report run this command after running *"npm run cu
 > allure generate ./allure-results --clean && allure open
 
 ## Gerkins video:
-> 
+> https://drive.google.com/drive/folders/1WSGn-JoovOZqSK8wDpoBsyGV2ujggoV_?usp=sharing
