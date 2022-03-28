@@ -1,4 +1,4 @@
-# This is a task for web automation juniour course for
+# This is a task for web automation juniour course 
 
 ## Clone this repository
 
